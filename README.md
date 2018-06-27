@@ -1,1 +1,4 @@
-command.writeline("hello");
+hello | wow
+----- | -----
+noooo | adada
+
