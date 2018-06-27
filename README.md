@@ -1,1 +1,1 @@
-# test
+command.writeline("hello");
